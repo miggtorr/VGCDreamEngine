@@ -4,14 +4,24 @@
 
 ### The All-In-One VGC Draft League Software Suite for macOS.
 
-**Rotom Draft** is a suite of software tools to help **VGC Draft League** players bring their best game to their matches. 
-Powerful integrations with [Pokemon Showdown](https://play.pokemonshowdown.com), the PokeAPI, and PokePast.es let you quickly design the optimal strategy for your next match.
+**Rotom Draft** is a feature-rich suite of software tools to help **VGC Draft League** players bring their best game to their matches. 
+Powerful integrations with [Pokemon Showdown](https://play.pokemonshowdown.com), the [PokeAPI](https://pokeapi.co/), and **PokePast.es** let you quickly design the optimal strategy for your next match!
 
-Features:
+## Requirements
 
-Rotom Draft features three main areas: the Analysis pane, the Tool drawers, and the Damage Calculator. 
+macOS 14 Sonoma or higher.
+NOTE: There are currently no plans to port the software to Windows/Linux.
 
-The Tool drawers features powerful applets that let you do things like: build your roster, calculate optimal tera-types, keep track of the league's schedule and standings, keep notes or records for each match, and build teams based on the Pokémon on your roster. 
+## Features
+
+**Rotom Draft** features three main workspaces: the **Analysis** pane, the **Tool** drawers, and the **Damage Calculator**. 
+
+The Tool drawers features **powerful applets** that let you: 
+- Build your best Roster
+- Calculate optimal tera-types
+- Keep track of the league's schedule and standings
+- keep notes, records, and replay URLs (Showdown, YouTube, Twitch, etc.) for each match
+- Build Teams based on the Pokémon on your Roster
 
 The Analysis pane is where you go to deep dive into a roster's moves, stats, type matchups, battle strategies, speed control methods, and the like. You can also keep track of your league's draft board here to plan trades and swaps. 
 
