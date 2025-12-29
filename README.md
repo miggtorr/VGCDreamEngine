@@ -7,7 +7,7 @@
 **Rotom Draft** is a feature-rich suite of software tools to help **VGC Draft League** players bring their best game to their matches. 
 Powerful integrations with [Pokemon Showdown](https://play.pokemonshowdown.com), the [PokeAPI](https://pokeapi.co/), and **PokePast.es** let you quickly design the optimal strategy for your next match!
 
-## Requirements
+# Requirements
 
 - macOS 14 Sonoma or higher.
 - An intenet connection is required when adding a Pokémon to a Roster for the first time, as its data is downloaded and cached from the PokéAPI. If a Pokemon has already been cached, no connection is required.
@@ -15,7 +15,7 @@ Powerful integrations with [Pokemon Showdown](https://play.pokemonshowdown.com),
 
 NOTE: There are currently no plans to port the software to Windows/Linux.
 
-## Features
+# Features
 
 **Rotom Draft** features three main workspaces: the **Analysis Panes**, the **Tool Drawers**, and the **Damage Calculator**. 
 
