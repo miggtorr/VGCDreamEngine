@@ -157,8 +157,59 @@ To calculate a Pokémon's optimal tera type:
 4) Consult the generated Tera Type Scores table.
 
 Select **Additional Considerations** for a summary of special tera type features (e.g., Grass-types cannot be spored, Fire-types cannot be burned, etc.)
+
 Select **Calculation Information** for a summary of the tera type calculation algorithm.
 
 ### Schedule Drawer
+
+The Schedule Drawer is a multi-faceted tool for helping you keep track of:
+- All the matches you play (including notes for prep and post-mortems)
+- All the matches the other coaches play
+- The current standings
+- The playoff bracket
+
+At the top you will see an option to **Select a League**. Schedules are League-specific. To use these features, you must select a League. 
+
+#### Sections
+
+The Schedule Drawer contains three tabs:
+- Swiss
+- Leaderboard
+- Playoffs
+
+#### Swiss
+
+In the Swiss Rounds section. You can specify the number of Swiss rounds that a tournament will hold.
+
+You can then select a Defending Roster (usually your own Roster) to open up the Schedule for that roster. The **Analyze Defending Roster** button will select that Roster in the Rosters Drawer for you, allowing you to see its details in the Analysis Panes. If it's already selected, the button does nothing.
+
+A Roster's points are populated automatically based on match scores.
+
+In the Rounds section, you record the following for each round:
+
+- The opposing Roster the defending Roster will be facing. When you do this, those rounds update automatically for the opposing Rosters. This makes filling in a complete Swiss schedule a little easier.
+- Record the final score for a Round. This awards points to any relevant players.
+- Quickly **Analyze** an opponent's Roster. This button selects their Roster in the Rosters drawer, allowing you to see its details in the Analysis Panes.
+- Record **Notes** for a Round, which includes spaces for prep notes and post-mortem thoughts, as well as fields for match replays. Notes are Defending Roster-specific.
+
+**IMPORTANT**: When you update a Round in any way, ALWAYS make sure to click **Save Roster Schedule** at the bottom or it won't save. This is especially important when adding Notes.
+
+#### Leaderboard
+
+The Leaderboard tab populates automatically based on the Round scores. 
+
+#### Playoffs
+
+The Playoffs tab is similar to the Swiss tab, but is formatted as a standard 12-person tournament bracket. Right now, it's hard-coded to have 12 places. This will change with a later update.
+
+The **Popout Bracket** button gives a zoom-able graphic overview of the playoffs.
+
+The **Autopopulate** button automatically seeds the playoffs based on the leaderboard.
+
+Only the initial seed rounds can be set. The rest of the rounds are populated automatically based on the winners of previous rounds. Winners are specified via the **Score** setting.
+
+Each round has a space for **Notes** like the Swiss rounds.
+
+**IMPORTANT**: When you update a Round in any way, ALWAYS make sure to click **Save Playoffs** at the bottom or it won't save. This is especially important when adding Notes.
 
 
