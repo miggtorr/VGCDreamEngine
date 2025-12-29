@@ -1,8 +1,8 @@
 # Rotom Draft
 
-#### The All-In-One VGC Draft League Software Suite for macOS.
-
 ![](https://raw.githubusercontent.com/miggtorr/RotomDraft/refs/heads/main/icon.iconset/icon_256x256.png)
+
+### The All-In-One VGC Draft League Software Suite for macOS.
 
 **Rotom Draft** is a suite of software tools to help **VGC Draft League **players bring their best game to their matches. Powerful integrations with Pokemon Showdown, the PokeAPI, and PokePast.es let you quickly design the optimal strategy for your next match.
 
