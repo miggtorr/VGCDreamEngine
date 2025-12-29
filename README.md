@@ -212,4 +212,57 @@ Each round has a space for **Notes** like the Swiss rounds.
 
 **IMPORTANT**: When you update a Round in any way, ALWAYS make sure to click **Save Playoffs** at the bottom or it won't save. This is especially important when adding Notes.
 
+## Team Builder
 
+Rotom Draft features a powerful Team Builder that lets you quickly assemble permutations of the Pokémon on a particular Roster, optimizing for each new opponent.
+
+### Select a League and Roster
+
+Selecting a League is optional, but recommended if you have more than one League saved to Rotom Draft. This filters the list of Rosters below.
+
+Select a Roster from the dropdown or click **Load Current** to load in whichever Roster is selected in the Rosters Drawer.
+
+### Creating a New Team
+
+1) Click **New Team** and give the new Team a name. 
+2) Optionally adjust the Team Size if you want to add more than the standard six Pokémon.
+
+NOTE: It is common to make "Full Roster" teams of all ten Pokémon in an opposing Roster to allow for easy calc'ing in the Battle Calculator.
+
+3) Simply Click and Drag the desired Pokémon from the Roster Pokémon ribbon to the appropriate Team slot!
+
+### Managing Existing Teams
+
+There are several buttons that let you manage existing teams easily:
+
+- Rename
+- Delete
+- Duplicate
+- Import Paste
+- Export Paste
+
+The **Import Paste** button lets you import a team using a PokePast.es URL or the Showdown notation copied right from Showdown.
+
+The **Export Paste** bitton lets you copy the current team's data to your clipboard using Showdown notation.
+
+You can re-arrange Pokémon on a Team by Drag-and-Dropping them from one slot to another
+
+You can overwrite a Pokémon on a Team by dragging a new Pokémon from the Roster Ribbon onto the slot in question.
+
+You can clear a slot by right-clicking and selecting **Clear Slot**.
+
+### Editing Pokémon on a Team
+
+Selecting a slot with a Pokémon in it will open the Team Slot Detail window. This lets you view and edit everything about a Pokémon.
+
+All stat calculations are based on Level 50 Pokémon.
+
+Abilities and Movesets are derived from a Pokémon's available Moves & Abilties. 
+
+**NOTE**: It is **HIGHLY** recommended to have the Team Builder open in conjucntion with the Moves tab of the Pokémon Analysis Pane (detailed below). This lets you see a Pokémon's learnet in detail with advanced filters and metrics.
+
+When populated, each Move has an Info button that lets you see the move's effects in detail.
+
+Team data autosaves when edited. 
+
+**NOTE**: Rotom Draft's Battle Calculator is extremely powerful and integrates seamlessly with the Team Builder. You may prefer to simply populate a Team in the Team Builder and edit the Pokémon in the Battle Calculator instead. This is a common workflow. See the Battle Calculator explanation below for details.
