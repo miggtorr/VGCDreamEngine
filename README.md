@@ -70,10 +70,65 @@ Teams are the party of six Pokémon a player brings to a match.
 
 Teams are typically composed of a subset of the Pokémon in a Roster. They can be customized and tweaked just like on Showdown, with Abilities, Movesets, Natures, Items, and the like. 
 
-Teams can be created and edited inside of Rotom Draft's powerful Team Builder. They can also be imported or exported to/from Showdown for backing up or play testing. 
+Teams can be created and edited inside of Rotom Draft's powerful Team Builder. They can also be imported or exported to/from Showdown for backup or playtesting. 
 
 Teams are what you load into Rotom Draft's Battle Calculator, and can feature more than 6 Pokémon, e.g., if you need to calc your team against an opponent's entire roster. 
 
 ## Tool Drawers
+
+### Rosters Drawer
+
+The Rosters Drawer can be thought of as the Home Base of Rotom Draft: this is where it all begins.
+
+#### Creating a League
+
+When you open Rotom Draft for the first time, it's a good idea to create a League. To do so, click the "Manage Leagues..." button and add a "New" League. Give the League a name and select a Ruleset for the league. If you don't see an applicable ruleset, don't worry. You can add/edit a custom ruleset later. 
+
+#### Creating a Roster
+
+Next you'll want to create your first roster. There are multiple ways of going about this, but the best way to start is by typing a Roster Name at the top and clicking Save Roster. This will create an empty Roster with the given name.
+
+You'll want to associate this Roster with your League, so click on it and then click the "Manage Leagues..." button again and assign it to the correct League.
+
+#### Adding Pokémon to a Roster
+
+To add Pokémon to this Roster, make sure it's selected. Then you can do one of the following:
+
+- You can type in a Pokémon's name in the "Add Pokémon" box and click "Add."
+
+IMPORTANT: Make sure to click **Save Roster** at the top again to Save your changes or they'll revert!
+
+NOTE: This will need to be the PokeAPI name of the Pokemon. Some PokeAPI names are normal—e.g., "Sunflora"—but when you get into Pokémon with spaces and odd characters in their names, or pokemon with multiple forms, things can be unintuitive. For example, Water Tauros's PokeAPI name is "tauros-paldea-aqua-breed". What a mouthful! Luckily, there are alternative methods to adding Pokémon to a Roster so you don't need to worry about looking up the correct PokeAPI name for each Pokémon.
+
+- You can Import via a Poképaste.
+
+This may be the simplest thing to do for first-time users. Save a new Box on Showdown with the Pokémon you want (no need to add moves, EVs, etc) and export that to Pokepast.es. Then click "Import Pokepaste" and paste in the URL.
+
+IMPORTANT: Make sure to click **Save Roster** at the top again to Save your changes or they'll revert!
+
+- You can Add Pokémon via your League's Draft Board!
+
+Rotom Draft makes it easy to draft Pokémon straight from the Draft Board corresponding to your League's Ruleset! The **Draft Board** section below details how to do this, but the basic idea is that you open the Draft Board pane and—with your Roster selected in the Rosters drawer—double click on a Pokémon's name to add/remove it from your Roster. You can search for a Pokémon's name so no need to worry about odd spellings and form names. 
+
+Rosters save automatically when updated in this way.
+
+#### Managing Rosters
+
+The Rosters Drawer offers a handful of other convenient functions for managing Rosters:
+
+- Roster Duplication: If you change the name of the Roster in the Roster Name box at the top and click Save, it will not Rename the Roster. Rather, it will create a duplicate Roster with the new name (to Rename a Roster, use the Rename button instead).
+
+Filters
+- At the top of the Drawer, under the Roster Name and Save button
+
+- New: Generates a new, unsaved blank Roster. Does not save a new Roster. The same as deselecting all Rosters. 
+- Rename: Rename the current Roster.
+- Clear: Clears the current Roster. WARNING: This clears AND saves the current Roster. Only use this if you really want to rebuild a Roster from scratch.
+- Delete: Deletes the current Roster. WARNING: This deletes the current Roster permanently.
+- Favorite: If checked, keeps the current Roster at the top of the Rosters list.
+
+- Remove Selected: When a Pokémon is selected in the Current Roster section, it removes that Pokémon from the roster. Does not save (click Save Roster to save).
+
+
 
 
