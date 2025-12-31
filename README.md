@@ -20,7 +20,9 @@ NOTE: There are currently no plans to port the software to Windows/Linux.
 **Rotom Draft** was created with AI-assisted coding. The software was tweaked, debugged, and tested manually on macOS hardware by a real human (me).
 
 **No** visual art was created using AI.
+
 Icons and buttons were created by hand in Adobe Illustrator with no AI assistance.
+
 All Pokémon Sprites and type icons were sourced from the [PokéAPI Sprite Repository](https://github.com/PokeAPI/sprites). 
 
 # Features
