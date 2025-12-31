@@ -265,9 +265,8 @@ You can clear a slot by right-clicking and selecting **Clear Slot**.
 
 Selecting a slot with a Pokémon in it will open the Team Slot Detail window. This lets you view and edit everything about a Pokémon.
 
-All stat calculations are based on Level 50 Pokémon.
-
-Abilities and Movesets are derived from a Pokémon's available Moves & Abilties. 
+- All stat calculations are based on Level 50 Pokémon.
+- Abilities and Movesets are derived from a Pokémon's available Moves & Abilties. 
 
 **NOTE**: It is **HIGHLY** recommended to have the Team Builder open in conjucntion with the Moves tab of the Pokémon Analysis Pane (detailed below). This lets you see a Pokémon's learnet in detail with advanced filters and metrics.
 
