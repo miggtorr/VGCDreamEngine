@@ -1,13 +1,13 @@
-# Rotom Draft
+# VGC Dream Engine
 
 ![](https://raw.githubusercontent.com/miggtorr/RotomDraft/refs/heads/main/icon.iconset/icon_256x256.png)
 
 ### The All-In-One VGC Draft-League Software Suite for macOS.
 
-**Rotom Draft** is a feature-rich suite of software tools to help **VGC Draft League** players bring their best game to their matches. 
+**VGC Dream Engine** is a feature-rich suite of software tools to help **VGC Draft League** players bring their best game to their matches. 
 Powerful integrations with [Pokemon Showdown](https://play.pokemonshowdown.com), the [PokeAPI](https://pokeapi.co/), and **PokePast.es** let you quickly design the optimal strategy for your next match!
 
-Though optimized for Draft League, Rotom Draft's powerful tools and integrations are adaptable to many forms of VGC prep, including ladder and tournament prep.
+Though optimized for Draft League, Dream Engine's powerful tools and integrations are adaptable to many forms of VGC prep, including ladder and tournament prep.
 
 # Requirements
 
@@ -20,7 +20,7 @@ NOTE: There are currently no plans to port the software to Windows/Linux.
 
 # AI Disclosure
 
-**Rotom Draft** was created with AI-assisted coding. The software was tweaked, debugged, and tested manually on macOS hardware by a real human (me).
+**Dream Engine** was created with AI-assisted coding. The software was tweaked, debugged, and tested manually on macOS hardware by a real human (me).
 
 **No** visual art was created using AI.
 
@@ -30,7 +30,7 @@ All Pokémon Sprites and type icons were sourced from the [PokéAPI Sprite Repos
 
 # Features
 
-**Rotom Draft** features three main workspaces: the **Tool Drawers**, the **Analysis Panes**, and the **Damage Calculator**. 
+**Dream Engine** features three main workspaces: the **Tool Drawers**, the **Analysis Panes**, and the **Damage Calculator**. 
 
 The **Tool Drawers** features **powerful applets** that let you: 
 - Build your best Roster
@@ -55,7 +55,7 @@ Finally, the **Battle Calculator** lets you quickly make critical calcs between 
 
 ## Organizing Principles
 
-The basic organizing principle behind Rotom Draft is that groups of Pokémon are organized hierarchically like so: 
+The basic organizing principle behind Dream Engine is that groups of Pokémon are organized hierarchically like so: 
 
 **League => Roster => Team**
 
@@ -65,17 +65,17 @@ A League is the event in which the player is participating. Essentially, a tourn
 
 Leagues have Rulesets associated with them that specify what's available on the Draft Board, how many draft points each player receives, and how many pokemon can be selected.
 
-In Rotom Draft, a League also features its own schedule, leaderboard, and playoff bracket. 
+In Dream Engine, a League also features its own schedule, leaderboard, and playoff bracket. 
 
-If you are participating in several Draft Leagues at the same time, **Rotom Draft** helps you keep those different Leagues sequestered—along with their associated Pokemon, Players, Standings, etc.—so you're never confused as to which League your looking at!
+If you are participating in several Draft Leagues at the same time, **Dream Engine** helps you keep those different Leagues sequestered—along with their associated Pokemon, Players, Standings, etc.—so you're never confused as to which League your looking at!
 
 ### Roster
 
-A Roster is a player's selection of drafted Pokémon, usually 10 in standard VGC formats. In Rotom Draft, Rosters can be associated with a particular League. Multiple rosters typically associate with a single League. 
+A Roster is a player's selection of drafted Pokémon, usually 10 in standard VGC formats. In Dream Engine, Rosters can be associated with a particular League. Multiple rosters typically associate with a single League. 
 
-All of Rotom Draft's analysis functions apply to entire Rosters so you can see the plethora of interactions and counter-interactions that you or an opponent can create using the Pokémon on a roster. 
+All of Dream Engine's analysis functions apply to entire Rosters so you can see the plethora of interactions and counter-interactions that you or an opponent can create using the Pokémon on a roster. 
 
-For exmaple, tools like [Marrilan's Pokémon Team Builder](https://marriland.com/tools/team-builder/en/) help you see the defensive type profile of a group of up to six Pokémon—brilliant for ladder or tournament teams. But the Rotom Draft Type Matchup Analysis Pane lets you see the defensive type profile of all your entire roster, factoring in moves like Freeze Dry and abilities like Neutralizing Gas that turn off things like Levitate and Flash Fire. 
+For exmaple, tools like [Marrilan's Pokémon Team Builder](https://marriland.com/tools/team-builder/en/) help you see the defensive type profile of a group of up to six Pokémon—brilliant for ladder or tournament teams. But the Dream Engine Type Matchup Analysis Pane lets you see the defensive type profile of all your entire roster, factoring in moves like Freeze Dry and abilities like Neutralizing Gas that turn off things like Levitate and Flash Fire. 
 
 All Rosters can be imported via PokePast.es or exported to the clipboard in Showdown format, so you can easily move data to and from Showdown for backup, analysis, or playtesting.
 
@@ -85,19 +85,19 @@ Teams are the party of six Pokémon a player brings to a match.
 
 Teams are typically composed of a subset of the Pokémon in a Roster. They can be customized and tweaked just like on Showdown, with Abilities, Movesets, Natures, Items, and the like. 
 
-Teams can be created and edited inside of Rotom Draft's powerful Team Builder. They can also be imported or exported to/from Showdown for backup or playtesting. 
+Teams can be created and edited inside of Dream Engine's powerful Team Builder. They can also be imported or exported to/from Showdown for backup or playtesting. 
 
-Teams are what you load into Rotom Draft's Battle Calculator, and can feature more than 6 Pokémon, e.g., if you need to calc your team against an opponent's entire roster. 
+Teams are what you load into Dream Engine's Battle Calculator, and can feature more than 6 Pokémon, e.g., if you need to calc your team against an opponent's entire roster. 
 
 # Tool Drawers
 
 ## Rosters Drawer
 
-The Rosters Drawer can be thought of as the Home Base of Rotom Draft: this is where it all begins.
+The Rosters Drawer can be thought of as the Home Base of Dream Engine: this is where it all begins.
 
 ### Creating a League
 
-When you open Rotom Draft for the first time, it's a good idea to create a League. To do so, click the "Manage Leagues..." button and add a "New" League. Give the League a name and select a Ruleset for the league. If you don't see an applicable ruleset, don't worry. You can add/edit a custom ruleset later. 
+When you open Dream Engine for the first time, it's a good idea to create a League. To do so, click the "Manage Leagues..." button and add a "New" League. Give the League a name and select a Ruleset for the league. If you don't see an applicable ruleset, don't worry. You can add/edit a custom ruleset later. 
 
 ### Creating a Roster
 
@@ -123,7 +123,7 @@ IMPORTANT: Make sure to click **Save Roster** at the top again to Save your chan
 
 - You can Add Pokémon via your League's Draft Board!
 
-Rotom Draft makes it easy to draft Pokémon straight from the Draft Board corresponding to your League's Ruleset! The **Draft Board** section below details how to do this, but the basic idea is that you open the Draft Board pane and—with your Roster selected in the Rosters drawer—double click on a Pokémon's name to add/remove it from your Roster. You can search for a Pokémon's name so no need to worry about odd spellings and form names. 
+Dream Engine makes it easy to draft Pokémon straight from the Draft Board corresponding to your League's Ruleset! The **Draft Board** section below details how to do this, but the basic idea is that you open the Draft Board pane and—with your Roster selected in the Rosters drawer—double click on a Pokémon's name to add/remove it from your Roster. You can search for a Pokémon's name so no need to worry about odd spellings and form names. 
 
 Rosters save automatically when updated in this way.
 
@@ -227,11 +227,11 @@ Each round has a space for **Notes** like the Swiss rounds.
 
 ## Team Builder
 
-Rotom Draft features a powerful Team Builder that lets you quickly assemble permutations of the Pokémon on a particular Roster, optimizing for each new opponent.
+Dream Engine features a powerful Team Builder that lets you quickly assemble permutations of the Pokémon on a particular Roster, optimizing for each new opponent.
 
 ### Select a League and Roster
 
-Selecting a League is optional, but recommended if you have more than one League saved to Rotom Draft. This filters the list of Rosters below.
+Selecting a League is optional, but recommended if you have more than one League saved to Dream Engine. This filters the list of Rosters below.
 
 Select a Roster from the dropdown or click **Load Current** to load in whichever Roster is selected in the Rosters Drawer.
 
@@ -277,4 +277,4 @@ When populated, each Move has an Info button that lets you see the move's effect
 
 Team data autosaves when edited. 
 
-**NOTE**: Rotom Draft's Battle Calculator is extremely powerful and integrates seamlessly with the Team Builder. You may prefer to simply populate a Team in the Team Builder and edit the Pokémon in the Battle Calculator instead. This is a common workflow. See the Battle Calculator explanation below for details.
+**NOTE**: Dream Engine's Battle Calculator is extremely powerful and integrates seamlessly with the Team Builder. You may prefer to simply populate a Team in the Team Builder and edit the Pokémon in the Battle Calculator instead. This is a common workflow. See the Battle Calculator explanation below for details.
