@@ -11,7 +11,7 @@ Though optimized for Draft League, Dream Engine's powerful tools and integration
 
 # Requirements
 
-- macOS 14 Sonoma or higher. Compiled for Apple Silicon. Not tested on Intel Macs.
+- macOS 14 Sonoma or higher. Compiled for Apple Silicon. Not tested on Intel Macs (Rosetta).
 - An intenet connection is required when adding a Pokémon to a Roster for the first time, as its data is downloaded and cached from the PokéAPI. If a Pokemon has already been cached, no connection is required.
 - The UI is configured for macOS Dark Mode. It will still work in Light Mode, but some parts of the UI may look strange or be difficult to read.
 
